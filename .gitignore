@@ -1,6 +1,7 @@
 *.*
 *
 !*/
+!*/**
 !Makefile
 !*.mk
 !*.scala
@@ -18,6 +19,9 @@ build/
 !.mill-version
 out/
 .bsp/
+.bloop/
+.metals/
 .idea/
 .idea_modules/
+.vscode/
 test_run_dir/
